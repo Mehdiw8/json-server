@@ -1,9 +1,80 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "contacts": [
+    {
+      "fullname": "Ali",
+      "photo": "https://popimage.ir/wp-content/uploads/2021/03/%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%D9%BE%D8%B3%D8%B1%D8%A7%D9%86%D9%87-%D8%AE%D9%81%D9%86-16.jpg",
+      "job": "None",
+      "email": "None@gmail.com",
+      "mobile": 9891700000,
+      "group": "1",
+      "id": 1
+    },
+    {
+      "fullname": "نیما",
+      "photo": "https://popimage.ir/wp-content/uploads/2021/04/%D8%B9%DA%A9%D8%B3-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%DA%AF%D8%B1%DA%AF-26-950x950.jpg",
+      "job": "n",
+      "email": "none@gmail.com",
+      "mobile": 9891700000,
+      "group": "1",
+      "id": 2
+    },
+    {
+      "fullname": "Ali",
+      "photo": "https://popimage.ir/wp-content/uploads/2021/03/%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%D9%BE%D8%B3%D8%B1%D8%A7%D9%86%D9%87-%D8%AE%D9%81%D9%86-16.jpg",
+      "job": "None",
+      "email": "None@gmail.com",
+      "mobile": 9891700000,
+      "group": "1",
+      "id": 1
+    },
+    {
+      "fullname": "نیما",
+      "photo": "https://popimage.ir/wp-content/uploads/2021/04/%D8%B9%DA%A9%D8%B3-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%DA%AF%D8%B1%DA%AF-26-950x950.jpg",
+      "job": "n",
+      "email": "none@gmail.com",
+      "mobile": 9891700000,
+      "group": "1",
+      "id": 2
+    },
+    {
+      "fullname": "Ali",
+      "photo": "https://popimage.ir/wp-content/uploads/2021/03/%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%D9%BE%D8%B3%D8%B1%D8%A7%D9%86%D9%87-%D8%AE%D9%81%D9%86-16.jpg",
+      "job": "None",
+      "email": "None@gmail.com",
+      "mobile": 9891700000,
+      "group": "1",
+      "id": 1
+    },
+    {
+      "fullname": "نیما",
+      "photo": "https://popimage.ir/wp-content/uploads/2021/04/%D8%B9%DA%A9%D8%B3-%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84-%DA%AF%D8%B1%DA%AF-26-950x950.jpg",
+      "job": "n",
+      "email": "none@gmail.com",
+      "mobile": 9891700000,
+      "group": "1",
+      "id": 2
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "groups": [
+    {
+      "id": "1",
+      "name": "همکار"
+    },
+    {
+      "id": "2",
+      "name": "دوست"
+    },
+    {
+      "id": "3",
+      "name": "فامیل"
+    },
+    {
+      "id": "4",
+      "name": "سرویس"
+    },
+    {
+      "id": "5",
+      "name": "آشنا"
+    }
+  ]
 }
